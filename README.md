@@ -111,7 +111,7 @@ Trello for task management WhatsApp and Discord for communication.
 
 ## Presentation Deck
 
-[slides]([https://duckduckgo.com](https://docs.google.com/presentation/d/1phxROQVFNTxXSw-2QjKqeygQtyf_3EBA3KRY4SPPZx0/edit?usp=sharing)).
+[slides](https://docs.google.com/presentation/d/1phxROQVFNTxXSw-2QjKqeygQtyf_3EBA3KRY4SPPZx0/edit?usp=sharing).
 
 ## Git Process
 
